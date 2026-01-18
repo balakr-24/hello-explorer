@@ -2,3 +2,7 @@
 a.active {
     font-weight: bold;
 }
+
+body {
+    background-color: #f4f4f4;
+}
