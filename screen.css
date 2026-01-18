@@ -6,3 +6,8 @@ a.active {
 body {
     background-color: #2d3245;
 }
+
+h1 {
+    font-size: 48px;
+    color: #ffffff;
+}
