@@ -6,5 +6,6 @@ https://www.freepik.com/free-vector/grey-full-moon-illustration-white-background
 
 https://stock.adobe.com/search?k=earth+clipart&asset_id=1680304535&token_type=bearer&expires_in=86399
 
-Information Sources:
-https://www.britannica.com/place/Earth
+ChatGPT prompts for earth and moon descriptions:
+"write a scientific and informative description of the earth about 5-7 sentences long"
+"write a scientific and informative description of the moon about 5-7 sentences long"
