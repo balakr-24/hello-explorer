@@ -9,8 +9,8 @@ h1 {
 }
 
 .center {
-  text-align: center;
-  padding: 50px;
+    text-align: center;
+    padding: 50px;
 }
 
 p {
@@ -19,8 +19,34 @@ p {
 }
 
 h2 {
-    font-size: 28px !important;
-    color: #cccccc !important;
-    font-style: italic !important;
-    margin-bottom: 30px !important;
+    font-size: 24px;
+    color: #cccccc;
+    font-style: italic;
 }
+
+.curr-img {
+    border-radius: 50%;
+    border: 10px solid white;
+    object-fit: cover; 
+}
+
+img {
+    border-radius: 50%;  /* add circular shadow */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+img:hover {
+    transform: scale(1.05); /* enlarge the image on hover */
+    cursor: pointer;
+}
+
+nav {
+    gap: 20px;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none; /* Remove underline from links */
+}
+
+
